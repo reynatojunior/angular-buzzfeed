@@ -36,7 +36,9 @@
       "question": "Qual o seu maior foco ?",
       "options":[
         {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 2, "name":"Salvar a cidade", "alias":"B"},
+        {"id": 3, "name":"Salvar o policial", "alias":"B"},
+        {"id": 4, "name":"Salvar o bandido", "alias":"B"}
       ]
     },
     {
